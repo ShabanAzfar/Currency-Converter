@@ -9,8 +9,8 @@ This is a simple currency converter application developed using Python and Tkint
 - Easy to use: just enter the amount, select the currency, and click convert.
 
 ## GUI Preview:
-![Interface](Images\image1.png)
-![Conversion](Images\image1.png)
+![Interface](Images/image1.png)
+![Conversion](Images/image2.png)
 
 ## Conversion Rates
 
