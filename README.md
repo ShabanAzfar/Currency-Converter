@@ -8,6 +8,10 @@ This is a simple currency converter application developed using Python and Tkint
 - Simple and intuitive GUI built with Tkinter.
 - Easy to use: just enter the amount, select the currency, and click convert.
 
+## GUI Preview:
+![Interface](Images\image1.png)
+![Conversion](Images\image1.png)
+
 ## Conversion Rates
 
 The application uses the following predefined exchange rates:
@@ -28,7 +32,7 @@ The application uses the following predefined exchange rates:
 
 1. Clone the repository or download the source code.
     ```sh
-    git clone https://github.com/yourusername/currency-converter.git
+    git clone https://github.com/shabanazfar/currency-converter.git
     ```
 2. Navigate to the project directory.
     ```sh
